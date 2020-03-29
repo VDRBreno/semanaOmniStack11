@@ -11,10 +11,6 @@
 
 Be The Hero é um projeto para aprendizado criado por "Rockeseat".
 
-<h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="readme/preview.jpg" width="500px" />
-</h1>
-
 Tecnologias usadas no projeto:
 
 - [Node.js](https://nodejs.org/en/) 
