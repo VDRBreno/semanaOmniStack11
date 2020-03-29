@@ -9,7 +9,7 @@
 
 ## 💻 Projeto
 
-Be The Hero é um projeto para aprendizado criado por "Rockeseat".
+Be The Hero é um projeto para aprendizado criado por "<a href="https://github.com/Rocketseat">Rockeseat</a>".
 
 Tecnologias usadas no projeto:
 
