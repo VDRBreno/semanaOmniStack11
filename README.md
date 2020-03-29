@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="readme/download.svg" width="250px" />
+<h1 style="color:red">
+	<strong>Be The Hero</strong>
 </h1>
 
 <h4 align="center"> 
