@@ -1,5 +1,5 @@
 <h1>
-	<strong  style="color:red">Be The Hero</strong>
+	<strong>Be The Hero</strong>
 </h1>
 
 <h4 align="center"> 
