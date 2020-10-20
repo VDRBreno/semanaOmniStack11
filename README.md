@@ -11,6 +11,10 @@
 
 Be The Hero é um projeto para aprendizado criado por "<a href="https://github.com/Rocketseat">Rockeseat</a>".
 
+## ❗ Importante
+
+No projeto é usado ip local para conexão entre aplicação e backend, para que ele funcione corretamente deve-se alterar na aplicação mobile a baseURL em services/api.js para sua ip.
+
 Tecnologias usadas no projeto:
 
 - [Node.js](https://nodejs.org/en/) 
